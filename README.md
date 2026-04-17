@@ -1,11 +1,10 @@
 # Bem-vindo ao meu GitHub!
 
-Olá, sou **Seu Nome**, desenvolvedor de [tecnologias que você gosta]. Este é meu repositório principal onde compartilho projetos e aprendizados.
+Ola, eu sou o **Leo Cardoso**, aspirante a desenvolvedor fullstack e futuro desenvolvedor de jogos. Espero que você goste dos meus projetos! :).
 
 ## Projetos
-- Projeto 1
-- Projeto 2
-- Projeto 3
+- xx
 
 ## Contato
-- Email: [seu-email@dominio.com](mailto:seu-email@dominio.com)
+- Email: leonardocardosoespindola@gmail.com
+- linkedin.com/in/leonardo-cardoso-espindola

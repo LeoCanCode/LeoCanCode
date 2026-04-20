@@ -22,43 +22,6 @@ Currently, I'm improving my skills in web development and exploring new technolo
   <img src="https://skillicons.dev/icons?i=html,css,js,git" />
 </p>
 
-### 📚 Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,python" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeoCanCode&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoCanCode&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LeoCanCode&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎯 Goals
-
-- 🚀 Become a Fullstack Developer  
-- 📚 Master JavaScript and modern frameworks  
-- 💼 Work on real-world impactful projects  
-- 🌍 Build products that improve people's lives  
-
----
-
-## 🎮 Fun Fact
-
-I love gaming! It’s one of my biggest hobbies and a huge source of creativity for my projects.
-
 ---
 
 ## 📫 Contact

@@ -1,22 +1,80 @@
-# Welcome to My GitHub!
+# 👋 Hello, I'm Leonardo Cardoso Espindola
 
-Hi there! 👋 I'm **Leo**, a student at **IFSP (São Paulo Campus)**, currently pursuing a degree in **ADS (Analysis and Systems Development)**.
+🎓 Student at IFSP (São Paulo Campus)  
+💻 Studying ADS (Analysis and Systems Development)  
+🚀 Aspiring Fullstack Developer  
 
-## Skills & Interests
+---
 
-I have experience with the following technologies:
+## 🚀 About Me
 
-- **HTML** & **CSS** (Web development)
-- **JavaScript** (Client-side scripting)
+I'm passionate about building **modern, accessible, and user-focused web applications**.  
+With a background in **design**, I care a lot about both **functionality and user experience**.
 
-I'm also exploring **C#** and **Python**, and I'm eager to expand my knowledge in these languages.
+Currently, I'm improving my skills in web development and exploring new technologies to grow as a developer.
 
-## Fun Fact
+---
 
-I **love gaming**! 🎮 It's one of my biggest hobbies, and it helps me unwind while also being a source of creativity and inspiration for coding projects.
+## 🛠️ Tech Stack
 
-Feel free to check out my projects, and let's connect!
+### 💪 Strong Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git" />
+</p>
 
-## Contact
+### 📚 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,python" />
+</p>
 
-- Email: leonardocardosoespindola@gmail.com
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeoCanCode&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoCanCode&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LeoCanCode&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Goals
+
+- 🚀 Become a Fullstack Developer  
+- 📚 Master JavaScript and modern frameworks  
+- 💼 Work on real-world impactful projects  
+- 🌍 Build products that improve people's lives  
+
+---
+
+## 🎮 Fun Fact
+
+I love gaming! It’s one of my biggest hobbies and a huge source of creativity for my projects.
+
+---
+
+## 📫 Contact
+
+📧 Email: leonardocardosoespindola@gmail.com  
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/leonardo-cardoso-espindola-77887034b/
+
+🐙 GitHub:  
+https://github.com/LeoCanCode
+
+---
+
+## ✨ Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LeoCanCode&color=blue" />
+</p>

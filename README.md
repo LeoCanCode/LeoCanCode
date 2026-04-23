@@ -4,38 +4,27 @@
 </p>
 
 <h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
-<p align="center">Desenvolvedor em aprendizado | Apaixonado por Frontend e programação</p>
+<p align="center">Desenvolvedor em aprendizado | Frontend & Programação</p>
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 💻 Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23FFFFFF.svg?style=for-the-badge&logo=html5&logoColor=black&color=000000" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%23FFFFFF.svg?style=for-the-badge&logo=css3&logoColor=black&color=000000" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23FFFFFF.svg?style=for-the-badge&logo=javascript&logoColor=black&color=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-%23FFFFFF.svg?style=for-the-badge&logo=git&logoColor=black&color=000000" alt="Git" />
-  <img src="https://img.shields.io/badge/C-%23FFFFFF.svg?style=for-the-badge&logo=c&logoColor=black&color=000000" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
 </p>
 
 ---
 
-## 🌱 O que estou aprendendo
+## 🌱 Sobre mim
 
-- Desenvolvimento web avançado com **JavaScript**  
-- Frameworks modernos (React, por exemplo)  
-- Estruturas de dados e algoritmos em **C**  
-
----
-
-## 🎨 Sobre mim
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" alt="Coding Animation" />
-</p>
-
-- Estou explorando o mundo do desenvolvimento web com projetos reais.  
-- Adoro desafios de lógica e programação.  
+- Estou aprendendo e evoluindo em **desenvolvimento web** e programação em **C**.  
+- Curto criar projetos práticos para aplicar o que aprendo.  
+- Gosto de manter meu código **limpo e organizado**.
 
 ---
 
@@ -43,13 +32,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-%23FFFFFF.svg?style=for-the-badge&logo=linkedin&logoColor=black&color=000000" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-%23FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=black&color=000000" alt="Email" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-> "Cada linha de código é um passo para criar algo incrível."
+> "Aprender é um processo contínuo. Cada linha de código conta."

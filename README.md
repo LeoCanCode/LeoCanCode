@@ -31,8 +31,8 @@ Atualmente estudo **Análise e Desenvolvimento de Sistemas** e trabalho com **ma
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LeoCanCode&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoCanCode&layout=compact&theme=tokyonight"/>
 
 </div>
 

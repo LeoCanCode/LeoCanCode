@@ -41,8 +41,6 @@ Atualmente estudo **Análise e Desenvolvimento de Sistemas** e trabalho com **ma
 ## 📫 Contato
 
 📧 leonardocardosoespindola@gmail.com  
-📱 +55 11 94190-5927  
-🐙 https://github.com/SEU_USERNAME  
 
 ---
 
